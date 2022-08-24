@@ -14,17 +14,11 @@ This is the open source project of Google Drive/OneDrive/iCloud/Dropbox alternat
 
 Read here for full instructions: [teledriveapp.com](https://teledriveapp.com)
 
-## API Documentation
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/restfireteam/workspace/mgilangjanuar/collection/1778529-3e4b0f8d-f721-4055-8d30-33cacaea93e6?ctx=documentation)
-
 ## How to Contribute
 
 - Fork and clone this repository
 - Commit your changes
 - Create a pull request to the `staging` branch
-
-Or, just send us an [issue](https://github.com/mgilangjanuar/teledrive/issues) for reporting bugs and/or ask the questions, share your ideas, etc in [discussions](https://github.com/mgilangjanuar/teledrive/discussions).
 
 ## Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShankarGanish/tele-drive)
